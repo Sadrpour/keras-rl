@@ -145,3 +145,6 @@ It has since been adapted to become a general-purpose library.
 ## Todos
 - Documentation: Work on the documentation has begun but not everything is documented in code yet. Additionally, it would be super nice to have guides for each agents that describe the basic ideas behind it.
 - TRPO, priority-based memory, A3C, async DQN, ...
+
+## Testing
+- this is a git test 
