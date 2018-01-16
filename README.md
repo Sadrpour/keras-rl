@@ -146,3 +146,6 @@ It has since been adapted to become a general-purpose library.
 - Tests: I haven't yet had time to get started, but this is important.
 - Documentation: Currently, the documentation is pretty much non-existent.
 - TRPO, priority-based memory, A3C, async DQN, ...
+
+## Testing
+- this is a git test 
